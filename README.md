@@ -50,3 +50,13 @@
     Be the one to carry others gently toward the light. -Me
   </i>
 </div>
+
+---
+
+### 📎 Personal Notes & References
+
+> Things I keep looking up — leaving them here in case they help you too.
+
+- **Git / GPG** — [Signing commits with GPG keys](https://docs.github.com/en/authentication/managing-commit-signature-verification/signing-commits) · How to create, add, and use a GPG key to verify your commits on GitHub
+<!-- Add more references below in the same format -->
+<!-- - **Category** — [Title](URL) · Description -->
