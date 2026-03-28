@@ -57,6 +57,6 @@
 
 > Things I keep looking up — leaving them here in case they help you too.
 
-- **Git / GPG** — [Signing commits with GPG keys](https://docs.github.com/en/authentication/managing-commit-signature-verification/signing-commits) · How to create, add, and use a GPG key to verify your commits on GitHub
+- **Git / GPG** — [Commit Signature Verification](https://docs.github.com/en/authentication/managing-commit-signature-verification/about-commit-signature-verification) · Getting set up to use verified commits
 <!-- Add more references below in the same format -->
 <!-- - **Category** — [Title](URL) · Description -->
