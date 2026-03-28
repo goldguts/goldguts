@@ -12,9 +12,9 @@
 
 ### 🧑‍💻 About Me
 
-- 🎖️ Served in the U.S. Army — learned most of what matters there
+- 🎖️ Served in the U.S. Army
 - 🌱 Now writing software at a nonprofit working on GHG emissions accountability
-- 🔭 Interested in tools that make complex data actually useful
+- 🔭 Interested in tools that are useful
 
 ---
 
