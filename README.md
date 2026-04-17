@@ -55,8 +55,6 @@
 
 ### 📎 Personal Notes & References
 
-> Things I keep looking up — leaving them here in case they help you too.
-
 - **Git** — [Commit Signature Verification](https://docs.github.com/en/authentication/managing-commit-signature-verification/about-commit-signature-verification) - Getting set up to use verified commits
 - **Windows** — [Robocopy](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/robocopy) - Robocopy reference, for moving repos to other disk drives, etc.
 <!-- Add more references below in the same format -->
